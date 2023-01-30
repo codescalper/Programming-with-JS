@@ -1,0 +1,23 @@
+By the end of this reading, you'll be able to:
+
+Recognize common types of errors in JavaScript
+
+Here are some of the most common errors in JavaScript: 
+
+ReferenceError 
+
+SyntaxError 
+
+TypeError 
+
+RangeError
+
+There are some other errors in JavaScript. These other errors include: 
+
+AggregateError 
+
+Error 
+
+InternalError 
+
+URIError
