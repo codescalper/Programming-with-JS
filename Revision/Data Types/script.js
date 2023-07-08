@@ -170,7 +170,9 @@ console.log(places)
 
 // Comparsion operator always return the value of true pr false
 
-//  == , ===, > , < , >=, <= , 
+//  == , ===, > , < , >=, <= , !=,! ==
+
+
 
 
 
