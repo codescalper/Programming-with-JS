@@ -170,3 +170,27 @@ console.log(hotelMap.get(1))
 console.log(hotelMap.get(true))
 
 
+//Optional chaining 
+
+
+
+let person = {
+    name: 'Mayank'
+}
+
+
+const fName = person?.name; 
+const age = person?.age; 
+//it means if person hai toh aage badho nahi toh undefined de deo
+// person hai toh vaha par name hai ya nahi yeh dekho
+
+console.log(fName)
+
+
+
+// export keyword:
+// With the export keyword, you can export multiple named exports from a module.
+// You can export variables, functions, classes, or objects by specifying their names.
+// Multiple exports can exist in a single module.
+// To import an exported member, you need to use the exact name of the exported member enclosed in curly braces {} during the import.
+
